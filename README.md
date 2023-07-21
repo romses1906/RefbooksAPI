@@ -30,7 +30,7 @@ pip install -r requirements.txt
 SECRET_KEY='секретный ключ Django'
 ```
 
-Создайте и примените миграции
+Создайте и примените миграции из папки `refbooks/`
 ```shell
 python manage.py makemigrations
 python manage.py migrate
