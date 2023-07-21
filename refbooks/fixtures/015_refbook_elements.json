@@ -1,0 +1,101 @@
+[
+{
+  "model": "app_refbooks.refbookelement",
+  "pk": 1,
+  "fields": {
+    "refbook_version": 1,
+    "code": "J00",
+    "value": "test_value J00"
+  }
+},
+{
+  "model": "app_refbooks.refbookelement",
+  "pk": 2,
+  "fields": {
+    "refbook_version": 1,
+    "code": "J01",
+    "value": "test_value J01"
+  }
+},
+{
+  "model": "app_refbooks.refbookelement",
+  "pk": 3,
+  "fields": {
+    "refbook_version": 2,
+    "code": "A00",
+    "value": "test_value A00"
+  }
+},
+{
+  "model": "app_refbooks.refbookelement",
+  "pk": 4,
+  "fields": {
+    "refbook_version": 2,
+    "code": "A01",
+    "value": "test_value A01"
+  }
+},
+{
+  "model": "app_refbooks.refbookelement",
+  "pk": 5,
+  "fields": {
+    "refbook_version": 4,
+    "code": "B00",
+    "value": "test_value B00"
+  }
+},
+{
+  "model": "app_refbooks.refbookelement",
+  "pk": 6,
+  "fields": {
+    "refbook_version": 5,
+    "code": "B01",
+    "value": "test_value B01"
+  }
+},
+{
+  "model": "app_refbooks.refbookelement",
+  "pk": 7,
+  "fields": {
+    "refbook_version": 3,
+    "code": "C001",
+    "value": "test_value C001"
+  }
+},
+{
+  "model": "app_refbooks.refbookelement",
+  "pk": 8,
+  "fields": {
+    "refbook_version": 3,
+    "code": "C002",
+    "value": "test_value C002"
+  }
+},
+{
+  "model": "app_refbooks.refbookelement",
+  "pk": 9,
+  "fields": {
+    "refbook_version": 2,
+    "code": "C001",
+    "value": "test_value C001"
+  }
+},
+{
+  "model": "app_refbooks.refbookelement",
+  "pk": 10,
+  "fields": {
+    "refbook_version": 5,
+    "code": "B00",
+    "value": "test_value B00"
+  }
+},
+{
+  "model": "app_refbooks.refbookelement",
+  "pk": 11,
+  "fields": {
+    "refbook_version": 7,
+    "code": "D01",
+    "value": "test_value D01"
+  }
+}
+]

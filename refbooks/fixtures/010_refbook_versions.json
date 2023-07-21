@@ -1,0 +1,65 @@
+[
+{
+  "model": "app_refbooks.refbookversion",
+  "pk": 1,
+  "fields": {
+    "refbook": 1,
+    "version": "1.0",
+    "start_date": "2022-05-07"
+  }
+},
+{
+  "model": "app_refbooks.refbookversion",
+  "pk": 2,
+  "fields": {
+    "refbook": 1,
+    "version": "2.0",
+    "start_date": "2023-01-12"
+  }
+},
+{
+  "model": "app_refbooks.refbookversion",
+  "pk": 3,
+  "fields": {
+    "refbook": 1,
+    "version": "3.0",
+    "start_date": "2023-06-06"
+  }
+},
+{
+  "model": "app_refbooks.refbookversion",
+  "pk": 4,
+  "fields": {
+    "refbook": 2,
+    "version": "1.0",
+    "start_date": "2023-02-23"
+  }
+},
+{
+  "model": "app_refbooks.refbookversion",
+  "pk": 5,
+  "fields": {
+    "refbook": 2,
+    "version": "2.0",
+    "start_date": "2023-04-05"
+  }
+},
+{
+  "model": "app_refbooks.refbookversion",
+  "pk": 6,
+  "fields": {
+    "refbook": 1,
+    "version": "4.0",
+    "start_date": "2023-08-08"
+  }
+},
+{
+  "model": "app_refbooks.refbookversion",
+  "pk": 7,
+  "fields": {
+    "refbook": 2,
+    "version": "3.0",
+    "start_date": "2023-07-20"
+  }
+}
+]

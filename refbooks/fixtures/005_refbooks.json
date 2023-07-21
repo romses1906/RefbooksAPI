@@ -1,0 +1,20 @@
+[
+{
+  "model": "app_refbooks.refbook",
+  "pk": 1,
+  "fields": {
+    "code": "MS1",
+    "name": "Справочник MS1",
+    "description": ""
+  }
+},
+{
+  "model": "app_refbooks.refbook",
+  "pk": 2,
+  "fields": {
+    "code": "ICD-10",
+    "name": "Справочник ICD-10",
+    "description": "Справочник с кодами болезней МКБ"
+  }
+}
+]
