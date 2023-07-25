@@ -48,11 +48,17 @@ class RefbookAdmin(admin.ModelAdmin):
 
     def date_current_version(self, obj):
         """Метод получения даты начала действия текущей версии справочника"""
-        return get_current_version(refbook_id=obj).start_date
+        current_version = get_current_version(refbook_id=obj)
+        if current_version:
+            return current_version.start_date
+        return '-'
 
     def current_version(self, obj):
         """Метод получения текущей версии справочника"""
-        return get_current_version(refbook_id=obj)
+        current_version = get_current_version(refbook_id=obj)
+        if current_version:
+            return current_version
+        return '-'
 
     date_current_version.short_description = "Дата начала действия версии"
     current_version.short_description = "Текущая версия"
